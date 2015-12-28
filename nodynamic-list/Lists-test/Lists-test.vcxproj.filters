@@ -15,19 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="fun.cpp">
+    <ClCompile Include="test_main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="fun.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CNode.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="test_List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
